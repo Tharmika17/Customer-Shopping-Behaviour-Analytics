@@ -79,17 +79,6 @@ using Python to clean and enrich the dataset.
 
 📄 SQL File: customer_shopping_behavior_analytics.sql
 
-### Key Queries
-| # | Analysis |
-|---|---|
-| Q7 | Customer segmentation by purchases (CTE) |
-| Q8 | Top 3 products per category (CTE + Window Function) |
-| Q12 | Discount usage rate by RFM segment |
-| Q13 | Behaviour changes across loyalty stages |
-| Q20 | Top 5 spenders per RFM segment (RANK + Window Function) |
-
----
-
 ## 📈 Dashboard Features
 
 📄 Power BI File: customer_shopping_behaviour_analytics.pbix
