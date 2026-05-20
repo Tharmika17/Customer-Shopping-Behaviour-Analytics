@@ -25,18 +25,6 @@ An end-to-end data analytics project using **Python**, **MySQL** and **Power BI*
 
 ---
 
-## 🗄️ SQL — Some Key Queries
-
-| # | Analysis |
-|---|---|
-| Q7 | Customer segmentation by purchases (CTE) |
-| Q8 | Top 3 products per category (CTE + Window Function) |
-| Q12 | Discount usage rate by RFM segment |
-| Q13 | Behaviour changes across loyalty stages |
-Top 5 spenders per RFM segment (RANK + Window Function) 
-
----
-
 ## 📊 Power BI Dashboard
 
 ### Page 1 — Executive Overview
