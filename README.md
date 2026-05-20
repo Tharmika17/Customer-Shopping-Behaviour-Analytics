@@ -59,21 +59,24 @@ Top 5 spenders per RFM segment (RANK + Window Function)
 - 👕 **Clothing** dominates with **44.7%** of total revenue
 - 💜 **Champions** have the highest discount usage at **44.2%**
 - 📍 **Montana** is the top state by revenue at **$5,784**
-- ⚖️ Near equal gender split — Male **50.6%** vs Female **49.4%**
+- ⚖️ Near equal gender split — Male **67.74%** vs Female **32.26%**
 
 ---
 
 ## 🚀 How to Run
 
 **Python**
+
 pip install pandas numpy matplotlib seaborn scikit-learn
-jupyter notebook Untitled-Copy1.ipynb
+jupyter notebook customer_shopping_behaviour_analytics.ipynb
 
 **MySQL**
-source customer_shopping_behavior.sql;
+
+source customer_shopping_behavior_analytics.sql;
 
 **Power BI**
-Open ShopInsight.pbix → update MySQL credentials → Refresh
+
+Open customer_shopping_behaviour_analytics.pbix → update MySQL credentials → Refresh
 
 ---
 
