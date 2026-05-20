@@ -1,4 +1,4 @@
-# ShopInsight — Customer Shopping Behaviour Analytics
+# 🛍️ Customer Shopping Behaviour Analytics
 
 ## 📊 Project Overview
 This project analyses customer shopping behaviour data to explore revenue patterns, 
@@ -31,7 +31,7 @@ revenue, loyalty, and product performance.
 The dataset contains shopping records of 3,900 customers with 18 original 
 features, enriched to 28 features through Python feature engineering.
 
-📄 Dataset File: customer_enriched.csv
+📄 Dataset File: customer_shopping_behaviour_analytics.csv
 
 ### Key Features
 - Customer Demographics: Age, Gender, Location
@@ -57,7 +57,7 @@ features, enriched to 28 features through Python feature engineering.
 Before building the dashboard, data preprocessing and EDA were performed 
 using Python to clean and enrich the dataset.
 
-📄 Notebook: Untitled-Copy1.ipynb
+📄 Notebook: customer_shopping_behaviour_analytics.ipynb
 
 ### Analysis Included
 - Data cleaning and preprocessing
@@ -77,7 +77,7 @@ using Python to clean and enrich the dataset.
 
 20 KPI queries were written to analyse the enriched dataset in MySQL.
 
-📄 SQL File: customer_shopping_behavior.sql
+📄 SQL File: customer_shopping_behavior_analytics.sql
 
 ### Key Queries
 | # | Analysis |
@@ -92,7 +92,7 @@ using Python to clean and enrich the dataset.
 
 ## 📈 Dashboard Features
 
-📄 Power BI File: ShopInsight.pbix
+📄 Power BI File: customer_shopping_behaviour_analytics.pbix
 
 ### Page 1 — Executive Overview
 This page provides a high-level summary of overall business performance.
