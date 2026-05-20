@@ -40,16 +40,16 @@ Top 5 spenders per RFM segment (RANK + Window Function)
 ## 📊 Power BI Dashboard
 
 ### Page 1 — Executive Overview
-![Overview](screenshots/page1_overview.png)
+![Overview](screenshots/overview.png)
 
 ### Page 2 — Customer Segmentation
-![Segments](screenshots/page2_segments.png)
+![Segments](screenshots/segments.png)
 
 ### Page 3 — Product & Category Analysis
-![Products](screenshots/page3_products.png)
+![Products](screenshots/products.png)
 
 ### Page 4 — Purchase Behaviour & Loyalty
-![Behaviour](screenshots/page4_behaviour.png)
+![Behaviour](screenshots/behaviour.png)
 
 ---
 
