@@ -151,16 +151,17 @@ payment methods, shipping types and purchase frequency.
 ---
 
 ## 💡 Key Insights
-
 - **Loyal Customers** generate the most revenue at **$89,057**
 - **Fall** is the highest revenue season at **$60,018**
-- **Clothing** dominates category revenue at **44.7%** ($104K)
-- **Champions** have the highest discount usage rate at **44.2%**
+- **Clothing** dominates category revenue at **44.73%** ($104K)
+- **Champions** have the highest discount usage rate at **44.22%**
 - **Montana** is the top state by revenue at **$5,784**
-- Revenue is near equal across genders — Male **67.74%** vs Female **32.26%**
-- **Non-subscribers** significantly outnumber subscribers (2,847 vs 1,053)
+- **Male** customers dominate revenue at **67.74%** vs Female **32.26%**
+- **Non-subscribers** significantly outnumber subscribers (**2,847 vs 1,053**)
 - **Lost** customers are almost entirely Low Spenders
-
+- **Young Adults** generate the highest revenue at **$62,143**
+- **Blouse** is the top product by revenue at **$10,410**
+- **Sneakers** have the highest discount rate at **49.66%**
 ---
 
 ## 🖼 Dashboard Preview
